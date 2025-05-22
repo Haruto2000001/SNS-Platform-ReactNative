@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2025-02-25 00:26-0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: ja-JP\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/app/(auth)/create-account.tsx:106
+msgid "Already have an account?"
+msgstr "既にアカウントをお持ちですか？"
+
+#: src/app/(auth)/reset-password.tsx:32
+#: src/app/(auth)/forgot-password.tsx:27
+#: src/app/(auth)/create-account.tsx:34
+msgid "An error occurred"
+msgstr "エラーが発生しました"
+
+#: src/app/(auth)/forgot-password.tsx:49
+msgid "Check your email for password reset instructions"
+msgstr "パスワード再設定手順についてメールをご確認ください"
+
+#: src/app/(auth)/reset-password.tsx:62
+msgid "Confirm New Password"
+msgstr "新しいパスワードを確認"
+
+#: src/app/(auth)/signin-email.tsx:81
+#: src/app/(auth)/index.tsx:45
+#: src/app/(auth)/create-account.tsx:49
+#: src/app/(auth)/create-account.tsx:100
+msgid "Create Account"
+msgstr "アカウントを作成"
+
+#: src/app/(auth)/signin-email.tsx:79
+msgid "Don't have an account?"
+msgstr "アカウントをお持ちでない場合"
+
+#: src/app/(auth)/signin-email.tsx:40
+#: src/app/(auth)/forgot-password.tsx:57
+#: src/app/(auth)/create-account.tsx:71
+msgid "Email"
+msgstr "メールアドレス"
+
+#: src/app/(auth)/forgot-password.tsx:44
+msgid "Enter your email address and we'll send you instructions to reset your password"
+msgstr "メールアドレスを入力してください。パスワードリセット手順を送信します"
+
+#: src/app/(auth)/reset-password.tsx:42
+msgid "Enter your new password below"
+msgstr "新しいパスワードを下記に入力してください"
+
+#: src/app/(auth)/signin-email.tsx:62
+msgid "Forgot password?"
+msgstr "パスワードを忘れましたか？"
+
+#: src/app/+not-found.tsx:12
+msgid "Go Home"
+msgstr "ホームに戻る"
+
+#: src/app/(app)/groups.tsx:7
+#: src/app/(app)/_layout.tsx:30
+msgid "Groups"
+msgstr "グループ"
+
+#. placeholder {0}: user?.email || ''
+#: src/app/(app)/home.tsx:11
+msgid "Hello {0}"
+msgstr "こんにちは {0}"
+
+#: src/app/(app)/home.tsx:10
+#: src/app/(app)/_layout.tsx:23
+msgid "Home"
+msgstr "ホーム"
+
+#: src/components/LocationToggle.tsx:24
+msgid "Location Off"
+msgstr "位置情報オフ"
+
+#: src/components/LocationToggle.tsx:16
+msgid "Location On"
+msgstr "位置情報オン"
+
+#: src/app/(app)/map.tsx:17
+#: src/app/(app)/_layout.tsx:37
+msgid "Map"
+msgstr "マップ"
+
+#: src/app/(auth)/reset-password.tsx:51
+msgid "New Password"
+msgstr "新しいパスワード"
+
+#: src/app/(auth)/signin-email.tsx:53
+#: src/app/(auth)/create-account.tsx:84
+msgid "Password"
+msgstr "パスワード"
+
+#: src/app/(auth)/reset-password.tsx:16
+msgid "Passwords do not match"
+msgstr "パスワードが一致しません"
+
+#: src/app/(app)/_layout.tsx:44
+msgid "Profile"
+msgstr "プロフィール"
+
+#: src/app/(auth)/reset-password.tsx:77
+#: src/app/(auth)/forgot-password.tsx:42
+msgid "Reset Password"
+msgstr "パスワードをリセット"
+
+#: src/app/+not-found.tsx:10
+msgid "Screen not found"
+msgstr "画面が見つかりませんでした"
+
+#: src/app/(auth)/forgot-password.tsx:74
+msgid "Send Reset Instructions"
+msgstr "リセット手順を送信"
+
+#: src/app/(auth)/reset-password.tsx:41
+msgid "Set New Password"
+msgstr "新しいパスワードを設定"
+
+#: src/app/(auth)/create-account.tsx:108
+msgid "Sign in"
+msgstr "サインイン"
+
+#: src/app/(auth)/signin-email.tsx:73
+msgid "Sign In"
+msgstr "サインイン"
+
+#: src/app/(auth)/signin-email.tsx:31
+msgid "Sign in to your account"
+msgstr "アカウントにサインイン"
+
+#: src/app/(auth)/index.tsx:31
+msgid "Sign in with Apple"
+msgstr "Appleでサインイン"
+
+#: src/app/(auth)/index.tsx:23
+msgid "Sign in with Email"
+msgstr "メールでサインイン"
+
+#: src/app/(auth)/index.tsx:39
+msgid "Sign in with Google"
+msgstr "Googleでサインイン"
+
+#: src/app/(app)/profile.tsx:24
+msgid "Sign Out"
+msgstr "サインアウト"
+
+#: src/app/(auth)/create-account.tsx:50
+msgid "Sign up to get started"
+msgstr "サインアップして開始する"
+
+#: src/app/(auth)/index.tsx:17
+msgid "terakoya.ai"
+msgstr "terakoya.ai"
+
+#: src/app/(auth)/index.tsx:28
+#: src/app/(auth)/index.tsx:36
+msgid "This feature is not yet implemented"
+msgstr "この機能はまだ実装されていません"
+
+#: src/app/(auth)/create-account.tsx:59
+msgid "Username"
+msgstr "ユーザー名"

@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2025-02-25 00:26-0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en-US\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/app/(auth)/create-account.tsx:106
+msgid "Already have an account?"
+msgstr "Already have an account?"
+
+#: src/app/(auth)/reset-password.tsx:32
+#: src/app/(auth)/forgot-password.tsx:27
+#: src/app/(auth)/create-account.tsx:34
+msgid "An error occurred"
+msgstr "An error occurred"
+
+#: src/app/(auth)/forgot-password.tsx:49
+msgid "Check your email for password reset instructions"
+msgstr "Check your email for password reset instructions"
+
+#: src/app/(auth)/reset-password.tsx:62
+msgid "Confirm New Password"
+msgstr "Confirm New Password"
+
+#: src/app/(auth)/signin-email.tsx:81
+#: src/app/(auth)/index.tsx:45
+#: src/app/(auth)/create-account.tsx:49
+#: src/app/(auth)/create-account.tsx:100
+msgid "Create Account"
+msgstr "Create Account"
+
+#: src/app/(auth)/signin-email.tsx:79
+msgid "Don't have an account?"
+msgstr "Don't have an account?"
+
+#: src/app/(auth)/signin-email.tsx:40
+#: src/app/(auth)/forgot-password.tsx:57
+#: src/app/(auth)/create-account.tsx:71
+msgid "Email"
+msgstr "Email"
+
+#: src/app/(auth)/forgot-password.tsx:44
+msgid "Enter your email address and we'll send you instructions to reset your password"
+msgstr "Enter your email address and we'll send you instructions to reset your password"
+
+#: src/app/(auth)/reset-password.tsx:42
+msgid "Enter your new password below"
+msgstr "Enter your new password below"
+
+#: src/app/(auth)/signin-email.tsx:62
+msgid "Forgot password?"
+msgstr "Forgot password?"
+
+#: src/app/+not-found.tsx:12
+msgid "Go Home"
+msgstr "Go Home"
+
+#: src/app/(app)/groups.tsx:7
+#: src/app/(app)/_layout.tsx:30
+msgid "Groups"
+msgstr "Groups"
+
+#. placeholder {0}: user?.email || ''
+#: src/app/(app)/home.tsx:11
+msgid "Hello {0}"
+msgstr "Hello {0}"
+
+#: src/app/(app)/home.tsx:10
+#: src/app/(app)/_layout.tsx:23
+msgid "Home"
+msgstr "Home"
+
+#: src/components/LocationToggle.tsx:24
+msgid "Location Off"
+msgstr "Location Off"
+
+#: src/components/LocationToggle.tsx:16
+msgid "Location On"
+msgstr "Location On"
+
+#: src/app/(app)/map.tsx:17
+#: src/app/(app)/_layout.tsx:37
+msgid "Map"
+msgstr "Map"
+
+#: src/app/(auth)/reset-password.tsx:51
+msgid "New Password"
+msgstr "New Password"
+
+#: src/app/(auth)/signin-email.tsx:53
+#: src/app/(auth)/create-account.tsx:84
+msgid "Password"
+msgstr "Password"
+
+#: src/app/(auth)/reset-password.tsx:16
+msgid "Passwords do not match"
+msgstr "Passwords do not match"
+
+#: src/app/(app)/_layout.tsx:44
+msgid "Profile"
+msgstr "Profile"
+
+#: src/app/(auth)/reset-password.tsx:77
+#: src/app/(auth)/forgot-password.tsx:42
+msgid "Reset Password"
+msgstr "Reset Password"
+
+#: src/app/+not-found.tsx:10
+msgid "Screen not found"
+msgstr "Screen not found"
+
+#: src/app/(auth)/forgot-password.tsx:74
+msgid "Send Reset Instructions"
+msgstr "Send Reset Instructions"
+
+#: src/app/(auth)/reset-password.tsx:41
+msgid "Set New Password"
+msgstr "Set New Password"
+
+#: src/app/(auth)/create-account.tsx:108
+msgid "Sign in"
+msgstr "Sign in"
+
+#: src/app/(auth)/signin-email.tsx:73
+msgid "Sign In"
+msgstr "Sign In"
+
+#: src/app/(auth)/signin-email.tsx:31
+msgid "Sign in to your account"
+msgstr "Sign in to your account"
+
+#: src/app/(auth)/index.tsx:31
+msgid "Sign in with Apple"
+msgstr "Sign in with Apple"
+
+#: src/app/(auth)/index.tsx:23
+msgid "Sign in with Email"
+msgstr "Sign in with Email"
+
+#: src/app/(auth)/index.tsx:39
+msgid "Sign in with Google"
+msgstr "Sign in with Google"
+
+#: src/app/(app)/profile.tsx:24
+msgid "Sign Out"
+msgstr "Sign Out"
+
+#: src/app/(auth)/create-account.tsx:50
+msgid "Sign up to get started"
+msgstr "Sign up to get started"
+
+#: src/app/(auth)/index.tsx:17
+msgid "terakoya.ai"
+msgstr "terakoya.ai"
+
+#: src/app/(auth)/index.tsx:28
+#: src/app/(auth)/index.tsx:36
+msgid "This feature is not yet implemented"
+msgstr "This feature is not yet implemented"
+
+#: src/app/(auth)/create-account.tsx:59
+msgid "Username"
+msgstr "Username"

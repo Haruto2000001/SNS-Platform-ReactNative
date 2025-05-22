@@ -1,0 +1,1 @@
+export const MAPTILER_API_KEY = process.env.EXPO_PUBLIC_MAPTILER_API_KEY || ''

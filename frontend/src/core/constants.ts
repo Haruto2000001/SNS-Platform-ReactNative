@@ -1,0 +1,1 @@
+export const MAPTILER_STYLE_URL ="https://api.maptiler.com/maps/jp-mierune-streets/style.json?key=MAPTILER_API_KEY"
