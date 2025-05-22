@@ -91,7 +91,6 @@ Expo Go allows you to quickly run and test your app during development on a simu
 
 2.  **Open in Simulator/Device:**
     Once the server starts, you will see a QR code and options in the terminal.
-    <img src="README_imgs/ExpoGo.png" width="500">
 
     - Press `i` to open the app in the iOS Simulator.
     - Press `a` to open the app in an Android Emulator/Connected Device.
@@ -137,8 +136,6 @@ Ensure you are in the `frontend` directory. To run a Development Build, instead 
 - **Native Folders:** This process creates the `ios` and `android` folders within your `frontend` directory, enabling the use of native packages.
 - **iOS Dependencies:** On iOS, native packages (like MapLibre) are managed using CocoaPods. The `npx expo run:ios` command automatically handles the `pod install` process.
 
-![Screenshot of Development Build running](README_imgs/DevelopmentBuilds.png)
-
 ## 🗺️ Map Feature Setup
 
 This section details the setup required for the map functionality, including API keys and background location tracking.
@@ -167,4 +164,4 @@ To fetch real-time location updates from iOS devices, even when the app is in th
 **Important:** Since `react-native-background-geolocation` involves native code, you **must** use a [Development Build](#️-running-with-development-build-for-map-feature) (or a production build) to test the background location features. It will **not** work with Expo Go.
 
 <img src="README_imgs/SupabaseUserSetting.png" width="900" height="400">
-<img src="README_imgs/Location.png" width="300">
+<img src="README_imgs/LocationIcon.png" width="300">
